@@ -5,15 +5,16 @@ import Projects from '../components/Projects/Projects';
 import Technologies from '../components/Technologies/Technologies';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
-import { Section } from '../styles/GlobalComponents';
+import { Img, Section } from '../styles/GlobalComponents';
 
 const Home = () => {
   return (
     <Layout>
-      {/* <Section grid> */}
+      <Section grid>
         <Hero />
-        {/* <BgAnimation /> */}
-      {/* </Section> */}
+        <BgAnimation />
+        {/* <Img src="/images/bonface.jpg" /> */}
+      </Section>
       <Projects />
       <Technologies />
       <Timeline />
