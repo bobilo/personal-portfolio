@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Django and Databases
+            Django and Databases <br /> NodeJs and Express
           </ListParagraph>
         </ListContainer>
       </ListItem>
