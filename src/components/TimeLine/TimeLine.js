@@ -48,7 +48,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The Purpose of this Portfolio is to help me showcase my software development skills to potential clients and employers.
+        Experienced Software Developer with a demonstrated history of working in the Software Development industry. Strong software development professional skilled in Python(Django and PyQt5), Node.js, MongoDB, Express, React.js Technical System and User Support, Analytical Skills, Microsoft Office 365 and Windows Server.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

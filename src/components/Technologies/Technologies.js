@@ -9,8 +9,8 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of Technologies in the web development world.
-      From Back-end to Design
+      I've worked with a range of Technologies in the software development world.
+      From Back-end to Front-end.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,8 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js <br />
+            PyQt5
           </ListParagraph>
         </ListContainer>
       </ListItem>
