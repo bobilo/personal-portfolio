@@ -9,9 +9,9 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         I'm Bonface Obilo 
-        <img src="/images/bonface.jpg" style={{width: "200px", height: "200px", borderRadius: "50%"}}/> <br /><br /> 
-        Welcome To <br />
-        My Personal Portfolio
+        <img src="/images/bonface.jpg" style={{width: "200px", height: "200px", borderRadius: "50%"}}/> 
+        <br /><br />
+        Welcome To My Portfolio
       </SectionTitle>
       <SectionText>
         The purpose of this portfolio is to help my potential clients and employers to asses my skills, projects worked on and education background.
