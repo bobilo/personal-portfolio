@@ -48,6 +48,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
+        <img src="/images/bonface.jpg" style={{width: "200px", height: "200px", borderRadius: "50%"}}/> 
         Experienced Software Developer with a demonstrated history of working in the Software Development industry. Strong software development professional skilled in Python(Django and PyQt5), Node.js, MongoDB, Express, React.js Technical System and User Support, Analytical Skills, Microsoft Office 365 and Windows Server.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

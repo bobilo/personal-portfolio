@@ -9,7 +9,6 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         I'm Bonface Obilo 
-        <img src="/images/bonface.jpg" style={{width: "200px", height: "200px", borderRadius: "50%"}}/> 
         <br /><br />
         Welcome To My Portfolio
       </SectionTitle>
