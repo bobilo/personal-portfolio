@@ -1,21 +1,33 @@
 export const projects = [
   {
-    title: 'MERN Personal Blog',
-    description: "Using React, Node.js, Express & MongoDB, I developed a blog website for my personal blogging and can be customized to a client's specific requirements.",
-    image: '/images/my-blog.png', 
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/bobilo/Blog.git',
-    visit: 'https://react-personal-blog.netlify.app/',
+    title: "MERN Personal Blog",
+    description:
+      "Using React, Node.js, Express & MongoDB, I developed a blog website for my personal blogging and can be customized to a client's specific requirements.",
+    image: "/images/my-blog.png",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://github.com/bobilo/Blog.git",
+    visit: "https://react-personal-blog.netlify.app/",
     id: 0,
   },
   {
-    title: 'MERN Social App',
-    description:"Using React, Node.js, Express & MongoDB, I have developed a social application as one of my React projects learning. It's on continous development.",
-    image: '/images/react-social.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/bobilo/react-social-frontend.git',
-    visit: 'https://react-social-app-bonface.netlify.app/',
+    title: "MERN Social App",
+    description:
+      "Using React, Node.js, Express & MongoDB, I have developed a social application as one of my React projects learning. It's on continous development.",
+    image: "/images/react-social.png",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://github.com/bobilo/react-social-frontend.git",
+    visit: "https://react-social-app-bonface.netlify.app/",
     id: 1,
+  },
+  {
+    title: "Assignment Solvers App",
+    description:
+      "Using React, Django & Postgress, I have developed an online writing web application for one of my clients. It's on continous development.",
+    image: "/images/assolvers.png",
+    tags: ["Postgress", "React", "Django"],
+    source: "https://github.com/bobilo/assigment-solvers-frontend.git",
+    visit: "https://assignment-solvers.netlify.app/",
+    id: 2,
   },
   // {
   //   title: 'WebRTC App',
