@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/assolvers.png",
     tags: ["Postgress", "React", "Django"],
     source: "https://github.com/bobilo/assigment-solvers-frontend.git",
-    visit: "https://assignment-solvers.netlify.app/",
+    visit: "https://www.assignmentsolvers.net/",
     id: 2,
   },
   // {
